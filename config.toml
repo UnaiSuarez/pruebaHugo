@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://unaisuarez.github.io/pruebaHugo/'
 languageCode = 'es-es'
 title = 'primera pagina web de prueba'
 theme = 'hugo-theme-dream'

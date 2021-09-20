@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tag2 on primera pagina web de prueba</title>
-    <link>http://example.org/tags/tag2/</link>
+    <link>https://unaisuarez.github.io/pruebaHugo/tags/tag2/</link>
     <description>Recent content in tag2 on primera pagina web de prueba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 20 Sep 2021 23:53:41 +0200</lastBuildDate><atom:link href="http://example.org/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Sep 2021 23:53:41 +0200</lastBuildDate><atom:link href="https://unaisuarez.github.io/pruebaHugo/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Segundo Post</title>
-      <link>http://example.org/posts/segundo-post/</link>
+      <link>https://unaisuarez.github.io/pruebaHugo/posts/segundo-post/</link>
       <pubDate>Mon, 20 Sep 2021 23:53:41 +0200</pubDate>
       
-      <guid>http://example.org/posts/segundo-post/</guid>
+      <guid>https://unaisuarez.github.io/pruebaHugo/posts/segundo-post/</guid>
       <description>Este es el segundo post
 texto
  1 2 2  </description>
@@ -20,10 +20,10 @@ texto
     
     <item>
       <title>Primer Post</title>
-      <link>http://example.org/posts/primer-post/</link>
+      <link>https://unaisuarez.github.io/pruebaHugo/posts/primer-post/</link>
       <pubDate>Mon, 20 Sep 2021 23:53:16 +0200</pubDate>
       
-      <guid>http://example.org/posts/primer-post/</guid>
+      <guid>https://unaisuarez.github.io/pruebaHugo/posts/primer-post/</guid>
       <description>este es el primer post
 texto
  1 2 2  </description>
